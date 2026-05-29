@@ -17,8 +17,7 @@
 % ECM convention used in the simulation:
 %   Idis = -Iraw, so positive Idis = discharge
 %   Vt = OCV(SOC) - Idis*R0 - Vrc1 - Vrc2 - Vrc3
-%
-% Author:
+
 
 clear; clc; close all;
 
