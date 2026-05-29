@@ -18,7 +18,7 @@
 %   Idis = -Iraw, so positive Idis = discharge
 %   Vt = OCV(SOC) - Idis*R0 - Vrc1 - Vrc2 - Vrc3
 %
-% Author: generated for A123 validation workflow
+% Author:
 
 clear; clc; close all;
 
